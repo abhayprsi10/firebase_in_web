@@ -1,16 +1,16 @@
 // Your web app's Firebase configuration
-const firebaseConfig = {
-    apiKey: "AIzaSyClghnsp-5KFUViaoLkBPoYrcUMgZv_fRE",
-    authDomain: "mutlipages-web.firebaseapp.com",
-    databaseURL: "https://mutlipages-web-default-rtdb.firebaseio.com",
-    projectId: "mutlipages-web",
-    storageBucket: "mutlipages-web.appspot.com",
-    messagingSenderId: "895106050067",
-    appId: "1:895106050067:web:a2962cf1b818cacf44b7e6"
-  };
+// const firebaseConfig = {
+//     apiKey: "AIzaSyClghnsp-5KFUViaoLkBPoYrcUMgZv_fRE",
+//     authDomain: "mutlipages-web.firebaseapp.com",
+//     databaseURL: "https://mutlipages-web-default-rtdb.firebaseio.com",
+//     projectId: "mutlipages-web",
+//     storageBucket: "mutlipages-web.appspot.com",
+//     messagingSenderId: "895106050067",
+//     appId: "1:895106050067:web:a2962cf1b818cacf44b7e6"
+//   };
 
-  // Initialize Firebase
-  firebase.initializeApp(firebaseConfig);
+//   // Initialize Firebase
+//   firebase.initializeApp(firebaseConfig);
 
   // show("abhay@gmail.com");
 
